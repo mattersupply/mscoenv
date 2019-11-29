@@ -1,0 +1,21 @@
+{
+  "name": "mscoenv",
+  "description": "Manage encrypted dotenv files",
+  "version": "1.0.0",
+  "author": "Jorge Suarez",
+  "license": "MIT",
+  "main": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dotenv",
+    "encrypt",
+    "node",
+    "tools",
+    "cli"
+  ],
+  "bin": {
+    "mscoenv": "./cli.js"
+  }
+}
